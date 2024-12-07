@@ -1,0 +1,19 @@
+{
+    "name": "PeartreeGames.Evt.Topiary",
+    "rootNamespace": "PeartreeGames.Evt.Topiary",
+    "references": [
+        "PeartreeGames.Evt.Variables",
+        "PeartreeGames.Topiary.Unity",
+        "Unity.Addressables",
+        "Unity.ResourceManager"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

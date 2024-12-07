@@ -1,0 +1,25 @@
+{
+  "name": "games.peartree.evt.topiary",
+  "version": "0.15.0",
+  "displayName": "Evt.Topiary",
+  "description": "Evt Topiary Variables",
+  "unity": "2022.3",
+  "unityRelease": "7f1",
+  "documentationUrl": "https://github.com/peartreegames/evt-topiary",
+  "changelogUrl": "https://github.com/peartreegames/evt-topiary/changelog.html",
+  "licensesUrl": "https://github.com/peartreegames/evt-topiar/licensing.html",
+  "dependencies": {
+    "games.peartree.evt.variables": "0.3.4",
+    "com.unity.addressables": "1.21.19"
+  },
+  "keywords": [
+    "peartree",
+    "dialogue",
+    "scriptableobjects"
+  ],
+  "author": {
+    "name": "Peartree Games",
+    "email": "bgk@peartree.games",
+    "url": "https://peartree.games"
+  }
+}

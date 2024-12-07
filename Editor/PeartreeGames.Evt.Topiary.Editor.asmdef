@@ -1,0 +1,21 @@
+{
+    "name": "PeartreeGames.Evt.Topiary.Editor",
+    "rootNamespace": "PeartreeGames.Evt.Topiary.Editor",
+    "references": [
+        "PeartreeGames.Evt.Variables",
+        "PeartreeGames.Evt.Variables.Editor",
+        "PeartreeGames.Evt.Topiary",
+        "Unity.Addressables.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
